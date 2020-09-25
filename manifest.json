@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+    "header": {
+        "name": "Bloque 3d",
+        "description": "mi primer bloque en 3d",
+        "uuid": "1402bd8c-0662-497e-9346-4e65514eb01f",
+        "platform_locked": false,
+        "min_engine_version": [ 1, 14, 1 ],
+        "version": [ 0, 0, 1 ]
+    },
+  "modules": [
+    {
+        "description": "mi primer bloque en 3d",
+        "type": "resources",
+        "uuid": "d3cd2bcc-8aeb-44c1-b7a0-3aa3a1af2092",
+        "version": [ 0, 0, 1 ]
+    }
+  ]
+}
